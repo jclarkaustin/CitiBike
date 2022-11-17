@@ -6,5 +6,8 @@ I have no idea what any of this data means. But in the real-world I would have d
 
 Pretty Picutres are below:
 
-[![image_name](/downloads/image1.png]
-![image_name](C:\Users\jclar\OneDrive\Desktop\bikesharing\Challenge\Downloads\Image1.png]](https://github.com/jclarkaustin/CitiBike/issues/1#issue-1452209604)
+![image_name](https://github.com/jclarkaustin/CitiBike/blob/main/Downloads/Image1.png)
+![image_name](https://github.com/jclarkaustin/CitiBike/blob/main/Downloads/Image2.png)
+![image_name](https://github.com/jclarkaustin/CitiBike/blob/main/Downloads/Image3.png)
+![image_name](https://github.com/jclarkaustin/CitiBike/blob/main/Downloads/Image4.png)
+![image_name](https://github.com/jclarkaustin/CitiBike/blob/main/Downloads/Image5.png)
